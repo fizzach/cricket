@@ -28,7 +28,7 @@ class _homepageState extends State<homepage> {
     return Scaffold(
       appBar : AppBar(
         title: Text(
-          "cricket scoror",),
+          "cricket scorer",),
            ),
            drawer: Drawer(
              child:Column(
